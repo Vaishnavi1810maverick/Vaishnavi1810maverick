@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Seetharaman</h1>
-<h3 align="center">An intermediate developer who loves to code</h3>
+<h3 align="center">A developer who loves to code</h3>
 
 - 🔭 I’m currently working on **Thrift Fashion Store**
 
